@@ -71,5 +71,10 @@
         {
             public Unit Unit;
         }
+
+        public struct InstallComputer
+        {
+            public Computer Computer;
+        }
     }
 }
